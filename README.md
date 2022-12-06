@@ -4,12 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FhelipeKochinski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FhelipeKochinski&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
-<!-- Teste -->
-<p> <img align="center" src="https://github-readme -stats.vercel.app/api?username=fhelipekochinski&show_icons=true&theme=dark&hide_border=true&locale=pt-br" alt="fhelipekochinski" /></p>
-
-<p><img align="center" src="https:/ /github-readme-streak-stats.herokuapp.com/?user=fhelipekochinski&theme=dark" alt="fhelipekochinski" /></p>
- 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,7 +11,10 @@
   <img align="center" alt="Luiz-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
-  ##
+ 
+<p> <img align="center" src="https://github-readme -stats.vercel.app/api?username=fhelipekochinski&show_icons=true&theme=dark&hide_border=true&locale=pt-br" alt="fhelipekochinski" /></p>
+
+<p><img align="center" src="https:/ /github-readme-streak-stats.herokuapp.com/?user=fhelipekochinski&theme=dark" alt="fhelipekochinski" /></p>
  
 <div> 
   <a href = "mailto:contactmefhelipekochinski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
