@@ -1,5 +1,3 @@
-## Olá! - Hi!
-
 <div>
  <a href="https://github.com/FhelipeKochinski">
   <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=FhelipeKochinski&show_icons=true&theme=dark&hide_border=true&locale=pt-br&icon_color=fa8b00&border_radius=5" alt="FhelipeKochinski" />
